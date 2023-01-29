@@ -3,8 +3,6 @@
 This project is to demonstrate the basic functionality between Backbone.Js and React.Js.
 To run this project there are some steps needed.
 
-- Run: <pre>npm install</pre>
-
 ## Installation
 
 Install my-project with npm
@@ -25,6 +23,7 @@ Install my-project with npm
 - Experiment and enjoy.
 - Give some feedbacks.
 
+## Preview
 Login as developer
 ![image](https://user-images.githubusercontent.com/86127281/215318518-3b7a3c76-2c6e-4991-9764-c0cf59451109.png)
 
