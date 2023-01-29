@@ -1,0 +1,130 @@
+{
+    "widgetConfigurations": {
+        "developer": [
+            {
+                "previewImg": "https://loremflickr.com/100/100/countup",
+                "previewName": "Increment Widget",
+                "id": "IncrementWidget_0.7258124762786753",
+                "layout": {
+                    "i": "IncrementWidget",
+                    "w": 3,
+                    "h": 1,
+                    "x": 1,
+                    "y": 0,
+                    "isDraggable": true
+                },
+                "isBackboneView": false
+            },
+            {
+                "previewImg": "https://loremflickr.com/100/100/bitcoin",
+                "previewName": "Bitcoin $$$",
+                "id": "BitcoinChartWidget_0.29025699519811377",
+                "name": "bitcoin",
+                "isBackboneView": false,
+                "layout": {
+                    "i": "BitcoinChartWidget",
+                    "w": 8,
+                    "h": 3,
+                    "x": 6,
+                    "y": 0,
+                    "isDraggable": true
+                }
+            },
+            {
+                "previewImg": "https://loremflickr.com/100/100/joke",
+                "previewName": "Jokes",
+                "id": "JokesWidget_0.7664319488787903",
+                "name": "jokes",
+                "isBackboneView": true,
+                "layout": {
+                    "i": "JokesWidget",
+                    "w": 3,
+                    "h": 2,
+                    "x": 1,
+                    "y": 1,
+                    "isDraggable": true
+                }
+            }
+        ],
+        "manager": [
+            {
+                "previewImg": "https://loremflickr.com/100/100/dog",
+                "previewName": "Dog Image",
+                "id": "DogWidget_0.939241969855025",
+                "name": "dog",
+                "layout": {
+                    "i": "DogWidget",
+                    "w": 4,
+                    "h": 2,
+                    "x": 1,
+                    "y": 0,
+                    "isDraggable": true
+                },
+                "isBackboneView": true
+            },
+            {
+                "previewImg": "https://loremflickr.com/100/100/wisdom",
+                "previewName": "Got bored?",
+                "id": "BoredomWidget_0.42121635085823783",
+                "name": "boredom",
+                "isBackboneView": true,
+                "layout": {
+                    "i": "BoredomWidget",
+                    "w": 3,
+                    "h": 2,
+                    "x": 5,
+                    "y": 0,
+                    "isDraggable": true,
+                    "width": 3,
+                    "height": 2
+                }
+            },
+            {
+                "previewImg": "https://loremflickr.com/100/100/dog",
+                "previewName": "Dog Image",
+                "id": "DogWidget_0.47006622956589283",
+                "name": "dog",
+                "layout": {
+                    "i": "DogWidget",
+                    "w": 4,
+                    "h": 2,
+                    "x": 10,
+                    "y": 0,
+                    "isDraggable": true
+                },
+                "isBackboneView": true
+            },
+            {
+                "previewImg": "https://loremflickr.com/100/100/bitcoin",
+                "previewName": "Bitcoin $$$",
+                "id": "BitcoinChartWidget_0.7447526913596332",
+                "name": "bitcoin",
+                "isBackboneView": false,
+                "layout": {
+                    "i": "BitcoinChartWidget",
+                    "w": 8,
+                    "h": 3,
+                    "x": 1,
+                    "y": 2,
+                    "isDraggable": true,
+                    "width": 8,
+                    "height": 3
+                }
+            },
+            {
+                "previewImg": "https://loremflickr.com/100/100/countup",
+                "previewName": "Increment Widget",
+                "id": "IncrementWidget_0.9103989181573928",
+                "layout": {
+                    "i": "IncrementWidget",
+                    "w": 3,
+                    "h": 1,
+                    "x": 10,
+                    "y": 2,
+                    "isDraggable": true
+                },
+                "isBackboneView": false
+            }
+        ]
+    }
+}

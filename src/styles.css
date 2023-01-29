@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.layout {
+  background-color: beige;
+  position: relative;
+  display: block;
+}
+
+.react-grid-item {
+  border: 1px dashed darkgray;
+}
+
+.widget {
+  border: 1px dashed darkgray;
+}
+
+.configurator {
+  display: flex;
+  flex-direction: row;
+}
