@@ -24,3 +24,9 @@ Install my-project with npm
 - Open browser at the given port (Default: http://localhost:1234/)
 - Experiment and enjoy.
 - Give some feedbacks.
+
+Login as developer
+![image](https://user-images.githubusercontent.com/86127281/215318518-3b7a3c76-2c6e-4991-9764-c0cf59451109.png)
+
+Login as admin
+![image](https://user-images.githubusercontent.com/86127281/215318541-afd2569c-2c1f-475a-81a3-62bd79cc94f9.png)
